@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcement on isaac&#39;s 2024-2025 entries</title>
+    <link>http://localhost:1313/tags/announcement/</link>
+    <description>Recent content in Announcement on isaac&#39;s 2024-2025 entries</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Sep 2024 10:58:52 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>my first post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 17 Sep 2024 10:58:52 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;heres-my-new-blog&#34;&gt;&#xD;&#xA;  heres my new blog&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heres-my-new-blog&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;h3 id=&#34;new-blog&#34;&gt;&#xD;&#xA;  new blog&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#new-blog&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;thank you for visiting my brand new 2024 blog. here i will be logging everything i do in the HCI classes i take at Institut Polytechnique de Paris&amp;rsquo; Master VAR.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Image alt&#34; src=&#34;http://localhost:1313/images/N90.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
