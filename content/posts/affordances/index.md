@@ -48,7 +48,7 @@ the gestalt law of proximity is one of many that is (intentionally or not) not r
 
 ![terrible website design](/images/carrefour.png)
 
-above is my recreation of what i saw yesterday. does the discount progress bar apply to the product above it or below? it would be way more legible had the progress bars been moved closer to the concerned products. considering how many bad design decisions were on that website, i have a feeling (some of) it is intentional, meaning you will hear about this website again in the "dark patterns" section...
+above is my recreation of what i saw yesterday. does the discount progress bar apply to the product above it or below? it would be way more legible had the progress bars been moved closer to the concerned products. considering how many bad design decisions were on that website, i have a feeling (some of) it is intentional, meaning you could hear about this website again in the "dark patterns" section...
 
 ## _Famous social media website(s) i also will not name here_
 
