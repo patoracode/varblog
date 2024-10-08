@@ -1,5 +1,5 @@
 +++
-title = 'A Prominent HCI Researcher: Ben Shneiderman'
+title = 'a prominent hci researcher: ben shneiderman'
 date = 2024-09-30T18:12:40+02:00
 slug = ""
 authors = ["isaac"]
