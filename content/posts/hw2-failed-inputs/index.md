@@ -15,8 +15,7 @@ Google is famous for discontinuing products and services, whenever they do not s
 
 A famous example is the Google Glass: a pair of "smart" glasses which performs augmented reality visualization. 
 
-![Illustration of the google glass](https://www.blackchili.fr/wp-content/uploads/2013/04/google-glass.jpg)
-
+![Illustration of the google glass](/images/google-glass.jpg)
 
 ## What happens when a company's vision is not 10/10
 

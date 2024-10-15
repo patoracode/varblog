@@ -1,7 +1,12 @@
 +++
 title = 'unity on ios'
 date = 2024-10-03T15:42:34+02:00
-draft = true
+slug = ""
+authors = ["isaac"]
+tags = ["homework"]
+categories = ["homework2"]
+externalLink = ""
+series = []
 +++
 
 ## Installation
