@@ -1,5 +1,5 @@
 +++
-title = 'input devices & interaction paradigms'
+title = 'Input Devices & Interaction Paradigms'
 date = 2024-10-05T14:01:38+02:00
 slug = ""
 authors = ["isaac"]

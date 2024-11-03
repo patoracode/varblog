@@ -1,5 +1,5 @@
 +++
-title = 'the ultimate display'
+title = 'The Ultimate Display'
 date = 2024-10-05T11:41:03+02:00
 slug = ""
 authors = ["isaac"]

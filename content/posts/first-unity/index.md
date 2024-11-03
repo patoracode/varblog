@@ -1,5 +1,5 @@
 +++
-title = 'my first unity project: roll-a-ball'
+title = 'My first Unity project: Roll-A-Ball'
 date = 2024-10-06T13:11:57+02:00
 slug = ""
 authors = ["isaac"]
