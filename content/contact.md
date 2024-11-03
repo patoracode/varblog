@@ -3,4 +3,5 @@ title = "Contact"
 slug = "contact"
 +++
 
-Follow me, @johndoe.
+I am Isaac B.
+You can reach out to me on my [GitHub](https://github.com/patoracode/) or my [LinkedIn](https://www.linkedin.com/in/isaacbes/).
