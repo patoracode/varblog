@@ -1,6 +1,6 @@
 +++
 title = 'Fun and instructive uses of the Kinect camera'
-date = 2024-03-11T23:07:19+02:00
+date = 2024-11-03T23:07:19+02:00
 slug = ""
 authors = ["isaac"]
 tags = ["homework"]
